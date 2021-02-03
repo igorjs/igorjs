@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I am Igor J. Santos.
+
+[![Linkedin](https://img.shields.io/badge/-Igor_J_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorjosesantos/)](https://www.linkedin.com/in/igorjosesantos/)
+
+<a href="https://github.com/igorjosesantos">
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjosesantos&hide=jupyter%20notebook,html&layout=compact&theme=radical" />
+</a>
+
+<a href="https://github.com/igorjosesantos">
+  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=igorjosesantos&show_icons=true&theme=radical" />
+</a>
 
 <!--
 **igorjosesantos/igorjosesantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
