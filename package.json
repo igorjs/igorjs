@@ -1,0 +1,29 @@
+{
+  "name": "igorjs",
+  "version": "0.0.1",
+  "description": "Add me to your network on https://www.linkedin.com/in/igorjosesantos",
+  "main": "index.js",
+  "bin": {
+    "igorjs": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorjs/igorjs.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "cli",
+    "node",
+    "social",
+    "profile",
+    "greeting"
+  ],
+  "author": "Igor J. Santos <igor@igorjs.io> (https://igorjs.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igorjs/igorjs/issues"
+  },
+  "homepage": "https://github.com/igorjs/igorjs#readme"
+}
