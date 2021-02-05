@@ -1,6 +1,6 @@
-### Hi there 👋, I am Igor J. Santos.
+### Hi there 👋, I am Igor JS.
 
-[![Linkedin](https://img.shields.io/badge/-Igor_J_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorjosesantos/)](https://www.linkedin.com/in/igorjosesantos/)
+Add me to your network on [![Linkedin](https://img.shields.io/badge/-Igor_J_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorjosesantos/)](https://www.linkedin.com/in/igorjosesantos/)
 
 <a href="https://github.com/igorjosesantos">
   <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjosesantos&hide=jupyter%20notebook,html&layout=compact&theme=radical" />
