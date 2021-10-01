@@ -1,0 +1,52 @@
+name: NPM Package
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  # build:
+  #   strategy:
+  #     matrix:
+  #       os: [ubuntu-latest, macos-latest, windows-latest]
+  #   runs-on: ${{ matrix.os }}
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - uses: actions/setup-node@v2
+  #       with:
+  #         node-version: 12
+  #     - run: npm ci
+  #     - run: npm test
+
+  publish:
+    # needs: build
+
+    strategy:
+      matrix:
+        include:
+          - registry-name: NPM
+            registry-url: https://registry.npmjs.org
+            registry-token: ${{ secrets.NPM_TOKEN }}
+
+          - registry-name: GitHub
+            registry-url: https://npm.pkg.github.com
+            registry-token: ${{ secrets.GITHUB_TOKEN }}
+
+    permissions:
+      packages: write
+      contents: read
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 12
+          registry-url: ${{ matrix.registry-url }}
+      - run: npm install
+      - run: npm publish
+        name: Publishing to ${{ matrix.registry-name }}
+        continue-on-error: true
+        env:
+          NODE_AUTH_TOKEN: ${{ matrix.registry-token }}
