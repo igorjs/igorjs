@@ -1,6 +1,6 @@
 {
   "name": "igorjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Add me to your network on https://www.linkedin.com/in/igorjosesantos",
   "main": "index.js",
   "bin": {

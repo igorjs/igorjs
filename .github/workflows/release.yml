@@ -26,11 +26,11 @@ jobs:
         include:
           - registry-name: NPM
             registry-url: https://registry.npmjs.org
-            registry-token: ${{ secrets.NPM_TOKEN }}
+            registry-token: NPM_TOKEN
 
           - registry-name: GitHub
             registry-url: https://npm.pkg.github.com
-            registry-token: ${{ secrets.GITHUB_TOKEN }}
+            registry-token: GITHUB_TOKEN
 
     permissions:
       packages: write
@@ -49,4 +49,4 @@ jobs:
         name: Publishing to ${{ matrix.registry-name }}
         continue-on-error: true
         env:
-          NODE_AUTH_TOKEN: ${{ matrix.registry-token }}
+          NODE_AUTH_TOKEN: ${{ secrets[matrix.registry-token] }}
