@@ -41,14 +41,14 @@ jobs:
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-
-      - uses: actions/setup-node@v2
-        with:
-          node-version: 12
-          always-auth: true
-          check-latest: true
-          registry-url: "https://npm.pkg.github.com"
-      - run: npm install
-      - run: npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # - uses: actions/setup-node@v2
+      #   with:
+      #     node-version: 12
+      #     always-auth: true
+      #     check-latest: true
+      #     registry-url: "https://npm.pkg.github.com"
+      #     scope: "@igorjs"
+      # - run: npm install
+      # - run: npm publish
+      #   env:
+      #     NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
