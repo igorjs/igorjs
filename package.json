@@ -1,7 +1,7 @@
 {
   "name": "igorjs",
-  "version": "1.0.1",
-  "description": "Add me to your network on https://www.linkedin.com/in/igorjosesantos",
+  "version": "1.0.2",
+  "description": "My greetings in a script version",
   "main": "index.js",
   "bin": {
     "igorjs": "index.js"
