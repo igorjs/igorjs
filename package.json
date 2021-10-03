@@ -1,6 +1,6 @@
 {
   "name": "igorjs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "My greetings in a script version",
   "main": "index.js",
   "bin": {
