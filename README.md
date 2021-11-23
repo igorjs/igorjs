@@ -5,11 +5,11 @@ Add me to your network on [![Linkedin](https://img.shields.io/badge/-Igor_J_Sant
 -->
 
 <a href="https://github.com/igorjs">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjs&hide=jupyter%20notebook,html&layout=compact" />
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjs&hide=jupyter%20notebook,html&layout=compact&theme=dark" />
 </a>
 
 <a href="https://github.com/igorjs">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api?username=igorjs&show_icons=true" />
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api?username=igorjs&show_icons=true&theme=dark" />
 </a>
 
 <!--
