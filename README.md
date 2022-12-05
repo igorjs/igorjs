@@ -1,4 +1,4 @@
-### Hi there 👋, I am Igor JS.
+### Hi there 👋, I am Igor J. Santos
 
 <!--
 Add me to your network on [![Linkedin](https://img.shields.io/badge/-Igor_J_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorjosesantos/)](https://www.linkedin.com/in/igorjosesantos/)
