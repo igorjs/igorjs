@@ -21,7 +21,7 @@ You can check my work here on Github or through the social links below. 🤓
 ![](https://github-readme-streak-stats.herokuapp.com/?user=igorjs&theme=dark&hide_border=true)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=igorjs&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true&hide=json,properties,stylus,coffescript&card_width=495px)
-![](https://github-readme-stats.vercel.app/api/wakatime/?username=igorjs&theme=dark&hide_border=true&layout=compact&langs_count=5&custom_title=Time%20spent&hide=json,properties,stylus,coffescript)
+<!-- ![](https://github-readme-stats.vercel.app/api/wakatime/?username=igorjs&theme=dark&hide_border=true&layout=compact&langs_count=5&custom_title=Time%20spent&hide=json,properties,stylus,coffescript) -->
 
 ---
 ### 💻 Tech Stack
