@@ -1,32 +1,16 @@
-### 👋 Hi there!
-
-My name is Igor Santos, from Brazil 🇧🇷, but currently living in Australia 🇦🇺
-
-I've been working as Software Engineer since 2006 and currently I'm a Tech Lead / Solutions Architect [@Pragmateam](https://pragma.team).
-
-As a technology leader with over 16 years of experience in Software Engineering, Cloud Infrastructure, and Team Leadership, I am passionate about inspiring teamwork and engaging teams to deliver strategic solutions that support business objectives. 
-
-I am dedicated to personal development and lifelong learning, and I enjoy bringing out the best in people and adding value to every interaction.
-
-You can check my work here on Github or through the social links below. 🤓
-
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4695110/igorjs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igorjosesantos)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/igorjs) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@igorjs)
-
----
 ### 📊 GitHub Stats (for nerds)
-![](https://github-readme-stats.vercel.app/api?username=igorjs&theme=dark&hide_border=true&custom_title=Github%20Stats&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true&rank_icon=github&card_width=495px)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=igorjs&theme=dark&hide_border=true&custom_title=Github%20Stats&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true&rank_icon=github&card_width=495px) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=igorjs&theme=dark&hide_border=true)
-<br/>
+<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=igorjs&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true&hide=json,properties,stylus,coffescript&card_width=495px)
 <!-- ![](https://github-readme-stats.vercel.app/api/wakatime/?username=igorjs&theme=dark&hide_border=true&layout=compact&langs_count=5&custom_title=Time%20spent&hide=json,properties,stylus,coffescript) -->
 
+<!-- 
 ---
 ### 💻 Tech Stack
 
 #### Languages
+-->
 <!-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) -->
 <!-- ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) -->
 <!-- ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) -->
@@ -35,6 +19,7 @@ You can check my work here on Github or through the social links below. 🤓
 <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) -->
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) -->
 
+<!-- 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -43,9 +28,11 @@ You can check my work here on Github or through the social links below. 🤓
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### Frameworks and Libraries
+-->
+ 
+<!-- #### Frameworks and Libraries -->
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) -->
+<!-- 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -124,6 +111,15 @@ You can check my work here on Github or through the social links below. 🤓
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+-->
+
+---
+### 👋 Social Links
+
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4695110/igorjs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igorjosesantos)
+[![Codepen](https://img.shields.io/badge/Codepen-12100E?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/igorjs) 
+<!-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@igorjs) -->
 
 ---
 ### ☕️ Enjoyed my work?
