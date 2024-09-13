@@ -1,8 +1,8 @@
-### 📊 GitHub Stats (for nerds)
+<!-- ### 📊 GitHub Stats (for nerds) -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=igorjs&theme=dark&hide_border=true&custom_title=Github%20Stats&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true&rank_icon=github&card_width=495px) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=igorjs&theme=dark&hide_border=true)
-<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=igorjs&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true&hide=json,properties,stylus,coffescript&card_width=495px)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=igorjs&theme=dark&hide_border=true) -->
+<!-- <br /> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=igorjs&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true&hide=json,properties,stylus,coffescript&card_width=495px) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/wakatime/?username=igorjs&theme=dark&hide_border=true&layout=compact&langs_count=5&custom_title=Time%20spent&hide=json,properties,stylus,coffescript) -->
 
 <!-- 
